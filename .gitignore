@@ -1,0 +1,21 @@
+/.next/
+/.idea/
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# Build outputs
+build/
+dist/
+
+# Debug files
+*.lock
